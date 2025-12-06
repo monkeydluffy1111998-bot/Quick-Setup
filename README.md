@@ -120,4 +120,4 @@ $HOME/nullroot-install-YYYY-MM-DD_HH-MM-SS.log
 
 > All steps are logged automatically.
 
-<div align="center">  JAI SHREE RAM 🚩 </div> ```
+<div align="center">  JAI SHREE RAM 🚩 </div> 

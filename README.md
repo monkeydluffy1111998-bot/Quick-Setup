@@ -44,7 +44,7 @@
 1. Clone the repository:
 
 ```bash
-git clone git@github.com:monkeydluffy1111998-bot/Quick-Setup.git
+git clone https://github.com/monkeydluffy1111998-bot/Quick-Setup.git
 cd Quick-Setup
 ```
 2. Make the script executable:
